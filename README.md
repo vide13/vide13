@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Vide, an aspiring mobile developer with a particular interest in Kotlin. Constantly looking for innovative and more efficient ways to implement features and improve code habits.
 
-- 🔭 I’m currently working on a Kotlin project
+- 🔭 I’m currently working on a Kotlin application UI/UX
 - 🌱 I’m currently learning Kotlin tricks and features 
 
 ## Github Overview
